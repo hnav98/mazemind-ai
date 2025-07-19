@@ -1,4 +1,4 @@
-# 🧠 MazeMind: Genetic AI Maze Solver
+MazeMind: Genetic AI Maze Solver
 
 MazeMind is a simulation-based AI game where a population of agents learn to reach a goal through natural selection and mutation. Built with **React**, **JavaScript**, and **HTML Canvas**, this project demonstrates the power of genetic algorithms in a visual and engaging way.
 
@@ -30,7 +30,7 @@ Each agent is given a random DNA sequence that tells it how to move (up, down, l
 3. The top-performing agents reproduce and mutate.
 4. Over generations, the agents get better at finding the goal.
 
-You don't control the agents directly — your role is to watch evolution in action.
+You don't control the agents directly, your role is to watch evolution in action.
 
 Installation & Run
 
