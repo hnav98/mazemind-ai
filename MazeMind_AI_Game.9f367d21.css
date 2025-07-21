@@ -1,0 +1,26 @@
+body {
+  color: #0f0;
+  text-align: center;
+  background-color: #0f0f0f;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+canvas {
+  background-color: #1e1e1e;
+  border: 2px solid #0f0;
+  margin: 20px auto;
+  display: block;
+}
+
+button {
+  color: #000;
+  cursor: pointer;
+  background-color: #0f0;
+  border: none;
+  margin: 10px;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=MazeMind_AI_Game.9f367d21.css.map */
