@@ -36,7 +36,7 @@ Installation & Run
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/mazemind-ai.git
+git clone https://github.com/hnav98/mazemind-ai.git
 cd mazemind-ai
 
 # Install dependencies
